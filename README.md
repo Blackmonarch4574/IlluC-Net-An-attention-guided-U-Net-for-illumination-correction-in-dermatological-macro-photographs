@@ -79,10 +79,15 @@ IlluC-Net was evaluated on 100 curated dermatological test images with diverse i
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/IlluC-Net.git
+git clone https://github.com/Blackmonarch4574/IlluC-Net-An-attention-guided-U-Net-for-illumination-correction-in-dermatological-macro-photographs.git
 cd IlluC-Net
-pip install -r requirements.txt
+
 ```
+## Data Set 
+
+The IlluC-Net model was developed and evaluated using dermatological macro-photographs collected from publicly available repositories and custom clinical image sets. These datasets contain a wide variety of illumination artifacts such as shadows, glare, under-exposed regions, specular highlights, and uneven lighting patterns—making them ideal for benchmarking illumination correction algorithms.
+
+🔗 com
 
 
 ## Citation
