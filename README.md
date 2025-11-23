@@ -90,5 +90,16 @@ pip install -r requirements.txt
 If you use this work, please cite:
 
 ```bibtex
-
+@article{ADITHYA2025100439,
+title = {IlluC-Net: An attention-guided U-Net for illumination correction in dermatological macro-photographs},
+journal = {Franklin Open},
+volume = {13},
+pages = {100439},
+year = {2025},
+issn = {2773-1863},
+doi = {https://doi.org/10.1016/j.fraope.2025.100439},
+url = {https://www.sciencedirect.com/science/article/pii/S2773186325002245},
+author = {Likith Adithya and Gowtham Sai Chandra and Sri Naga Harshavardhan and Ruthvik Guptha and Anoop B.N. and Vipin Venugopal},
+keywords = {Attention mechanism, Deep learning, Illumination correction, Macro-photographs, Medical imaging, U-Net}
+}
 ```
