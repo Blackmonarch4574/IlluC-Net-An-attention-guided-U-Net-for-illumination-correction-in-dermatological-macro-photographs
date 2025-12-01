@@ -87,7 +87,7 @@ cd IlluC-Net
 
 The IlluC-Net model was developed and evaluated using dermatological macro-photographs collected from publicly available repositories and custom clinical image sets. These datasets contain a wide variety of illumination artifacts such as shadows, glare, under-exposed regions, specular highlights, and uneven lighting patterns—making them ideal for benchmarking illumination correction algorithms.
 
-🔗 com
+🔗 https://data.mendeley.com/datasets/jdpnmyk696/1
 
 
 ## Citation
