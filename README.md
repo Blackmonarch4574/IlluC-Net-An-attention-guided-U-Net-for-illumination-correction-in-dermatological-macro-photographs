@@ -85,9 +85,15 @@ cd IlluC-Net
 ```
 ## Data Set 
 
-The IlluC-Net model was developed and evaluated using dermatological macro-photographs collected from publicly available repositories and custom clinical image sets. These datasets contain a wide variety of illumination artifacts such as shadows, glare, under-exposed regions, specular highlights, and uneven lighting patterns—making them ideal for benchmarking illumination correction algorithms.
+The IlluC-Net model was trained and evaluated utilizing dermatological macro-photographs featuring simulated uneven illumination. To establish the baseline data for this study, images were aggregated from two established public repositories: 152 images from the University of Waterloo Skin Cancer Database [1] and 147 high-quality macro-photographs from the MED-NODE dataset [2].
 
-🔗 https://data.mendeley.com/datasets/jdpnmyk696/1
+The resulting simulated datasets encompass a diverse range of illumination artifacts, including shadows, glare, underexposed regions, and uneven lighting patterns, thereby providing a rigorous benchmark for evaluating the efficacy of illumination correction algorithms.
+
+[1] U. of Waterloo Vision & Image Processing Lab, "Skin cancer detection," University of Waterloo Skin Cancer Database, 2021. Available: https://uwaterloo.ca/vision-image-processing-lab/research-demos/skin-cancer-detection. [Accessed: Dec. 01, 2021].
+
+[2] I. Giotis, N. Molders, S. Land, M. Biehl, M.F. Jonkman, and N. Petkov, "MED-NODE: A computer-assisted melanoma diagnosis system using non-dermoscopic images," Expert Systems with Applications, vol. 42, no. 19, pp. 6578–6585, 2015.
+
+🔗Dataset (Dermatological macro-photographs with uneven illumination): https://data.mendeley.com/datasets/jdpnmyk696/1
 
 
 ## Citation
